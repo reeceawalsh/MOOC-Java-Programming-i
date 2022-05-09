@@ -13,19 +13,21 @@ public class AverageOfPositiveNumbers {
             System.out.println("Give a number:");
             int num = Integer.valueOf(scanner.nextLine());
 
+            if (num > 0) {
+                sum = sum + num;
+                count = count +1;
+            }
             if (num == 0) {
-                double average = sum / count;
                 if (sum > 0) {
+                    double average = sum / count;
                     System.out.println(average);
+                    break;
                 } else {
                     System.out.println("Cannot calculate the average");
+                    break;
                 }
             }
-
-            sum = sum + num;
-            count = count +1;
-
-
         }
     }
 }
+
