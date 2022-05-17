@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36c97ae3-64ae-4951-b4f1-448f6dcbe44e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../part03-Part03_15.PrintInRange/src/main/java/PrintInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_15.PrintInRange/src/main/java/PrintInRange.java" afterDir="false" />
+    <list default="true" id="6c7c3498-7b7e-4bc3-8ef8-8e571ce5a89a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Part03_16.Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Part03_16_Sum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -22,7 +33,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="29GT8KU7mWqG8oX3FvaxVgTrcch" />
+  <component name="ProjectId" id="29IznKI8NUWnBgJAW5hSZumDsy6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,18 +42,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36c97ae3-64ae-4951-b4f1-448f6dcbe44e" name="Changes" comment="" />
-      <created>1652738261902</created>
+      <changelist id="6c7c3498-7b7e-4bc3-8ef8-8e571ce5a89a" name="Changes" comment="" />
+      <created>1652815553375</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652738261902</updated>
+      <updated>1652815553375</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
