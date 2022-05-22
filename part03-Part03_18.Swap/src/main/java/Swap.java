@@ -17,8 +17,11 @@ public class Swap {
             System.out.println(array[index]);
             index++;
         }
-        System.out.println("");
-
+        int firstNum = Integer.valueOf(scanner.nextLine());
+        int secondNum = Integer.valueOf(scanner.nextLine());
+        int indexToSwap = array[firstNum];
+        array[firstNum] = array[secondNum];
+        array[secondNum] = indexToSwap;
         // Implement here
         // asking for the two indices
         // and then swapping them
