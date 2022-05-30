@@ -5,41 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c28c5aef-b184-49ee-b9f3-a76d91bfa0bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/runConfigurations/Part04_30_StoringRecords.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/target/classes/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/target/classes/StoringRecords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/runConfigurations/Part04_31_SportStatistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/target/classes/SportStatistics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/src/main/java/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/ClockHand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/target/classes/Timer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_01.OneMinute/.idea/runConfigurations/Part05_01_OneMinute.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part05-Part05_03.Cube/src/test/java/CubeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -49,17 +47,21 @@
     </option>
   </component>
   <component name="ProjectId" id="29oFrhpLm6jkb6GbkkDG9lp6FKJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,5 +72,19 @@
       <updated>1653771732528</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
