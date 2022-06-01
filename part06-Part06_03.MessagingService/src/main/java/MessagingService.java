@@ -6,13 +6,13 @@ public class MessagingService {
         this.messages = new ArrayList<>();
     }
 
-    public void addMessage(Message message) {
-        if (message.getContent().length() < 281) {
+    public void add(Message message) {
+        if (message.getContent().length() <= 280) {
             this.messages.add(message);
         }
     }
 
     public ArrayList<Object> getMessages() {
-        return messages;
+        return this.messages;
     }
 }
