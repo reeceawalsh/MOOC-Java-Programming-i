@@ -2,6 +2,13 @@
 import java.util.HashMap;
 
 public class SimpleDictionary {
+    private String word;
+    private String translation;
+
+    public SimpleDictionary(String word, String translation) {
+        this.word = word;
+        this.translation = translation;
+    }
 
     private HashMap<String, String> translations;
 
