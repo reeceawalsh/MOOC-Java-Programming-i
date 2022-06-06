@@ -30,7 +30,7 @@ public class GradeRegister {
 
     public double averageOfPoints() {
         if (this.points.size() == 0) {
-            return 0;
+            return -1;
         } else {
             int totalPoints = 0;
             for (int i = 0; i < this.points.size(); i++) {
