@@ -9,7 +9,7 @@ public class LiquidContainers {
 
         while (true) {
             System.out.print("> ");
-
+            System.out.println();
             String input = scan.nextLine();
             if (input.equals("quit")) {
                 break;
