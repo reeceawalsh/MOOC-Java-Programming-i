@@ -24,7 +24,6 @@ public class UserInterface {
             } else {
                 this.pointsSystem.addPoints(input);
                 this.gradeSystem.addGrade(input);
-
             }
         }
     }
