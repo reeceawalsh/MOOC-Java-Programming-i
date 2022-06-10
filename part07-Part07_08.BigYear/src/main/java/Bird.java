@@ -4,7 +4,6 @@ public class Bird {
     private String name;
     private String latinName;
     private int observations;
-    private ArrayList<Bird> birds;
 
     public Bird(String name, String latinName, int observations) {
         this.name = name;
@@ -19,21 +18,14 @@ public class Bird {
     public String getName() {
         return name;
     }
-
     public String getLatinName() {
         return latinName;
     }
-
     public int getObservations() {
         return observations;
     }
-
-    public ArrayList<Bird> getBirds() {
-        return birds;
-    }
-
     @Override
     public String toString() {
-        return this.name + " (" + this.latinName + "): " + this.observations + " observations";
+        return getName() + " (" + getLatinName() + "): " + getObservations() + " observations";
     }
 }
